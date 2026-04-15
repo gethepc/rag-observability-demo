@@ -158,6 +158,6 @@ rag-observability-demo/
 
 ## Author
 
-**Prashant Chauhan** — Senior Cloud Architect  
+**Prashant Chauhan** — Conceptualised · Designed · Built · Integrated into IHS  
 GitHub: [@gethepc](https://github.com/gethepc)  
 LinkedIn: [prashant-chauhan-2b5a0b11](https://www.linkedin.com/in/prashant-chauhan-2b5a0b11/)
